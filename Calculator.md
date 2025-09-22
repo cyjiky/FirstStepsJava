@@ -1,7 +1,7 @@
 # 👾 Project 1
 ## ✔️ Calculator 
 
-'''java
+```java
 import java.util.Scanner;
 
 public class Calculator {
@@ -50,4 +50,4 @@ public class Calculator {
 
     }
 }
-'''
+```
